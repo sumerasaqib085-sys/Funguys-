@@ -1,0 +1,5 @@
+{
+  "name": "Funguys",
+  "description": "A mobile-first, TikTok-style social video application powered by Gemini. Users can watch a vertical video feed, create and edit profiles, upload content, and interact with AI-powered creation tools to generate images and videos.",
+  "requestFramePermissions": []
+}
